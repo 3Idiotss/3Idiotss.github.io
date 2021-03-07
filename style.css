@@ -1,7 +1,7 @@
 
 @font-face{
-font-family: "CustomFont";
-src: url(CustomFont.otf);
+font-family: "Noto";
+src: url(Noto.ttf);
 }
 @font-face{
 font-family: Akaya;
@@ -64,7 +64,7 @@ nav ul li a:active{
     top: 60px;
 }
 #home-introduction{
-    font-family: CustomFont;
+    font-family: Noto;
     font-size: 40px;
     position: absolute;
     padding: 0;
@@ -112,7 +112,7 @@ button:active{
 
 }
 .card-design{
-    font-family: CustomFont;
+    font-family: Noto;
     border: 1px solid #ccc;
     border-radius: 5px;
     box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
